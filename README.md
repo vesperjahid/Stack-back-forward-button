@@ -4,7 +4,7 @@ Backward & forward button are created using c++
 #### Using components:
 
 * C++
-* Strack
+* Stack
 * Push()
 * pop()
 * Top()
